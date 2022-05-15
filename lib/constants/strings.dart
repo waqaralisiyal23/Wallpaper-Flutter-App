@@ -1,4 +1,4 @@
-const String API_KEY = 'your-pexels-api-key-here';
+const String API_KEY = 'your-pexels-api-key';
 
 const String TRENDING = 'Trending';
 const String NATURE = 'Nature';
