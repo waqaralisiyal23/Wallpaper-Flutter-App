@@ -1,5 +1,4 @@
-const String API_KEY =
-    '563492ad6f917000010000014e58d28b01c840eab0268f2db837d60b';
+const String API_KEY = 'your-pexels-api-key-here';
 
 const String TRENDING = 'Trending';
 const String NATURE = 'Nature';
@@ -11,5 +10,5 @@ const String MOTIVATION = 'Motivation';
 const String CARS = 'Car';
 const String BIKES = 'Bike';
 
-const String AD_UNIT_ID = 'ca-app-pub-2854521211489219/1809202976';
-const String AD_2_UNIT_ID = 'ca-app-pub-2854521211489219/2817024702';
+const String AD_UNIT_ID = 'first-ad-unit-id';
+const String AD_2_UNIT_ID = 'second-ad-unit-id';
